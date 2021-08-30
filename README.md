@@ -1,0 +1,3 @@
+# AE4350-Assignment
+The Implementation of a Q-Learning Algorithm for the Interaction of a Reinforcement Learning Agent with a Computer Game.
+To run the game you must first initialise the Q-table by running the q_val_init ipynb file. Next run the RL ipynb file which contains the RL class including the necessary functions for the algorithm. Finally you can run the game ipynb file and a pygame display with the game envirnoment will show up where you will be able to observe the agent playing the game. You can run the plots ipynb file to reproduce the plots included in the report submitted as the assignment.
